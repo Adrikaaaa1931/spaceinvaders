@@ -32,7 +32,8 @@ This project is a functional clone of the Space Invaders game, featuring:
 4. Use keys A and D to move left and right, and spacebar to shoot.
 5. Try to shoot all enemies before they descend too far.
 
-#File Structure
+## file Structure
+
 space-invaders-python/
 │
 ├── space_invaders.py       # Main game script
@@ -44,10 +45,10 @@ space-invaders-python/
 ├── game over.wav           # Game over sound effect
 ├── README.md               # This file
 
-#About Me
+## About Me
 Adrika Bordoloi! :)
 IGCSE Student | Aspiring Quantitative Finance Analyst and Investment Banker
 Connect with me on [LinkedIn](https://www.linkedin.com/in/adrika-bordoloi-083443255/)
 
-#Disclaimer
+## Disclaimer
 This project is created purely for educational purposes and does not infringe on the original Space Invaders intellectual property. All assets used are placeholders or self-created.
