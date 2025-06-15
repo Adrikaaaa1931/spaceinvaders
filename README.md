@@ -34,8 +34,8 @@ This project is a functional clone of the Space Invaders game, featuring:
 
 ## About Me
 Adrika Bordoloi! :)
-IGCSE Student | Aspiring Quantitative Finance Analyst and Investment Banker
-Connect with me on [LinkedIn](https://www.linkedin.com/in/adrika-bordoloi-083443255/)
+- IGCSE Student | Aspiring Quantitative Finance Analyst and Investment Banker
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/adrika-bordoloi-083443255/)
 
 ## Disclaimer
 This project is created purely for educational purposes and does not infringe on the original Space Invaders intellectual property. All assets used are placeholders or self-created.
